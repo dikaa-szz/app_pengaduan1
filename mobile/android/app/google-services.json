@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "266840291575",
+    "project_id": "app-pelaporan-61fea",
+    "storage_bucket": "app-pelaporan-61fea.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:266840291575:android:2037ac18e2af61e26cfbf2",
+        "android_client_info": {
+          "package_name": "com.example.app_pengaduan"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5s8ne5_lxHpcCwR-U2Ih3eGzVmITPG2c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
